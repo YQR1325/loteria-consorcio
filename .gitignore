@@ -1,0 +1,8 @@
+*.db
+.env
+__pycache__/
+*.pyc
+respaldos/
+*.pdf
+.agents/
+.claude/
