@@ -1,0 +1,8 @@
+streamlit
+pandas
+reportlab
+pillow
+qrcode[pil]
+plotly
+requests
+python-dotenv
